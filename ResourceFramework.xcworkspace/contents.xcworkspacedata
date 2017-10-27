@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:TestEmbeddedFramework/TestEmbeddedFramework.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:EmbeddedFramework/EmbeddedFramework.xcodeproj">
+   </FileRef>
+</Workspace>

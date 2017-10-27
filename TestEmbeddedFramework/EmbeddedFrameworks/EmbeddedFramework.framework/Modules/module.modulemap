@@ -1,0 +1,11 @@
+framework module EmbeddedFramework {
+  umbrella header "EmbeddedFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module EmbeddedFramework.Swift {
+    header "EmbeddedFramework-Swift.h"
+    requires objc
+}
